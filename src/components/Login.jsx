@@ -62,9 +62,6 @@ const Login = ({ onLogin }) => {
             {isLoading ? 'Signing In...' : 'Sign In'}
           </button>
         </form>
-        <p className="credentials-hint">
-          Use credentials: <strong>ObsAgent</strong> / <strong>!@#QWEasd</strong>
-        </p>
       </div>
     </div>
   );
