@@ -91,16 +91,3 @@
   background: #c9c9c9;
   cursor: not-allowed;
 }
-
-.credentials-hint {
-  margin-top: 1.5rem;
-  padding-top: 1.5rem;
-  border-top: 1px solid #d8dde6;
-  text-align: center;
-  color: #706e6b;
-  font-size: 0.85rem;
-}
-
-.credentials-hint strong {
-  color: #16325c;
-}
